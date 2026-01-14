@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0389-find-the-difference](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -32,4 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
