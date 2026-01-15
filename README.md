@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0415-add-strings](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
