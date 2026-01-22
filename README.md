@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -66,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
