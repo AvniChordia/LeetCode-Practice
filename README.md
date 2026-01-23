@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
@@ -69,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
