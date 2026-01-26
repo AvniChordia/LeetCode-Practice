@@ -33,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0415-add-strings) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
