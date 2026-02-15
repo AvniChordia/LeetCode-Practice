@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/1137-n-th-tribonacci-number) |
@@ -15,16 +16,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
@@ -46,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
