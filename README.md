@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0344-reverse-string) |
 ## String
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0389-find-the-difference) |
