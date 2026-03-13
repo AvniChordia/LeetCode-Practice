@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0509-fibonacci-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/AvniChordia/LeetCode-Practice/tree/master/0344-reverse-string) |
 ## String
 |  |
